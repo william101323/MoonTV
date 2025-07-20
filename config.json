@@ -50,7 +50,7 @@
       "name": "豆瓣资源"
     },
     "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "api": "https://mozhuazy.com/api.php/pro puesta/vod",
       "name": "魔爪资源"
     },
     "mdzy": {
@@ -76,6 +76,21 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "fantuan": {
+      "api": "https://www.fantuan.tv/api.php/provide/vod",
+      "name": "饭团影视",
+      "detail": "https://www.fantuan.tv"
+    },
+    "yingshi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "影视工厂",
+      "detail": "https://cj.lziapi.com"
+    },
+    "qiqi": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "七七资源",
+      "detail": "https://www.qiqidys.com"
     }
   }
 }
